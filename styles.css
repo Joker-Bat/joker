@@ -182,7 +182,7 @@ header .toggle {
 	cursor: pointer;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 755px) {
 	header {
 	    padding: 20px 50px;
 	}
